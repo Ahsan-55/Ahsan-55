@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Muhammad Ahsan Bashir</h1>
-<h3 align="left">A passionate frontend developer from Lahore,Pakistan</h3>
+<h3 align="left">A passionate Software Engineer from Lahore,Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsan-55&label=Profile%20views&color=0e75b6&style=flat" alt="ahsan-55" /> </p>
 <h3>BIO</h3>
