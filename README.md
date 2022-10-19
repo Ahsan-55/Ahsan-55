@@ -23,7 +23,7 @@
 <div>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsan-55&show_icons=true&locale=en&layout=compact" alt="ahsan-55" width="350"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahsan-55&show_icons=true&locale=en" alt="ahsan-55" width="500px" /></p><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahsan-55&show_icons=true&locale=en" alt="ahsan-55" width="450px" /></p><br>
 </div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahsan-55&" alt="ahsan-55" /></p>
 <br>
