@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at **Beyond Technologies**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 Learning all about **DevOps**
 
 - 💬 Ask me about **React Js, Next Js, GraphQL, Tailwind, Node Js, AWS Beanstalk, Lambda, Express Js, MongoDB, SQL server, PostgreSQL, Restful and socket APIs**
 
