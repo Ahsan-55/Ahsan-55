@@ -21,7 +21,7 @@
 <h3>Development Stuff:</h3>
 <h4>⚡ GITHUB STATS</h4>
 <div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsan-55&show_icons=true&locale=en&layout=compact" alt="ahsan-55" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsan-55&show_icons=true&locale=en&layout=compact" alt="ahsan-55" width="400px"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahsan-55&show_icons=true&locale=en" alt="ahsan-55" width="500px" /></p><br>
 </div>
