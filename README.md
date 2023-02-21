@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsan-55&label=Profile%20views&color=0e75b6&style=flat" alt="ahsan-55" /> </p>
 <h3>BIO</h3>
 
-- 🔭 I’m currently working at **Beyond Technologies**
 
 - 🌱 Learning all about **DevOps**
 
